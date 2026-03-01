@@ -6,3 +6,7 @@ numpy
 pydantic
 python-dotenv
 openapi
+fastapi
+uvicorn
+openai
+python-dotenv
